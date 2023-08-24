@@ -13,7 +13,7 @@
 
 - 🏢 I'm Embedded SW Engineer trainee @ GDSC || trainee @ IMT School
 - 👨‍💻 As a Department of Electornics and communication  student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C programming, c++, and Notion, or anything related to Embedded system.
+- 💬 Ask me about my experience with C programming, c++, digital markting and Notion, or anything related to Embedded system.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my Linkedin profile at https://www.linkedin.com/in/abdelfattah-moawed-4554a7258/ to see some of the projects I've worked on.
 
