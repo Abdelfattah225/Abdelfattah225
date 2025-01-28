@@ -23,8 +23,8 @@
 
 ### 🛠️ Skills
 #### **Programming Languages**
-- **C/C++** (Modern C++, STL, OOP)
-- **Python**, **Java**, **Assembly**, **Bash Scripting**
+- **C++ 11/14/17** (Templates, STL, OOAD)
+- **C**, **Python**, **Java**, **Assembly**, **Bash Scripting**
 
 #### **Embedded Systems & IoT**
 - **Embedded Linux**, **Yocto Project**, **ARM Architecture**
