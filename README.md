@@ -59,26 +59,6 @@
 
 ---
 
-### 📚 Courses & Certifications
-- **Embedded Systems Diploma** @ IMT School *(June 2023 - February 2024)*
-- **Hardware Design Training** @ Hardware Inventors *(January 2024 - March 2024)*
-- **Software Testing & Quality Assurance** @ ITI *(September 2024)*
-- **Digital Marketing Challenger Track** @ egFWD *(April 2023)*
-
----
-
-### 💼 Experience
-#### **Embedded Linux Trainee** @ [Bullet Guru](https://bulletguru.com)
-- **Linux Fundamentals:** Mastered Linux architecture, shell scripting, and kernel monitoring.
-- **Yocto Project:** Built a custom Linux distribution for ARM64 with advanced security features.
-- **Modern C++:** Enhanced skills in OOP, UML Modeling, and Design Patterns.
-
-#### **Software Tester Scholarship** @ [Digital Egypt Pioneers Initiative (DEPI)](https://depi.gov.eg)
-- **ISTQB Foundation Level:** Trained in software testing and API testing using Postman.
-- **Automation Testing:** Worked with Selenium and Java for automation projects.
-
----
-
 ### 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/abdelfattah-moawed-4554a7258/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Abdelfattah225" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
